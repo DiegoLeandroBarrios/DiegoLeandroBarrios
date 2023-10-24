@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego Leandro Barrios</h1>
 <h3 align="center">A passionate frontend developer from Argentina🧉</h3>
 
-- 🌱 I’m currently learning **UTN Iniversidad Tecnologica Nacional (Resistencia)**
+- 🌱 I’m currently learning **UTN Universidad Tecnologica Nacional (Resistencia)**
 
-- ⚡ Fun fact **Me gustan los deportes⚽,salir con amigos y jugar juegos🎮**
+- ⚡ Fun fact **Me gustan los deportes⚽, salir con amigos y jugar juegos🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
