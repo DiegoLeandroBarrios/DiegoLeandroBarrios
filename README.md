@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **UTN Universidad Tecnologica Nacional (Resistencia)**
 
-- ⚡ Fun fact **Me gustan los deportes⚽, salir con amigos y jugar juegos🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
