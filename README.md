@@ -1,9 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">Learning comes firstr</h3>
+<h3 align="center">Learning comes first</h3>
 
 
 <!--Intro start-->
+- 🎓 Graduated in 2025 **Universidad Tecnica Nacional, Resistencia(UTNFrre)**
 
 - 🌱 I’m currently learning **Laravel, MySql, Firebase, GoogleADS**
 
